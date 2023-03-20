@@ -31,7 +31,7 @@ Enter a Number To Open One of The control panel components
 
 ## How it works
 
-After exiting, application will create folder named "OS_LAB_2" in the path "C://Users//%USERNAME%//"
+After exiting, application will create a folder named "OS_LAB_2" in the path "C://Users//%USERNAME%//"
 
 Then it will create a folder structure similar to this:
 
