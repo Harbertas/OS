@@ -1,6 +1,8 @@
 # OS
 Labaratory tasks for OM course 
 
+# 2_Lab
+
 ## Downloading and starting:
 
 ```console
