@@ -3,6 +3,8 @@ Labaratory tasks for OM course
 
 # 2_Lab
 
+![image](https://user-images.githubusercontent.com/93277255/226453731-0601d80a-6d41-4acb-9ef5-44bb1180b685.png)
+
 ## Downloading and starting:
 
 ```console
