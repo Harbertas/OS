@@ -79,6 +79,6 @@ klangauskas -> klangaskas3 -> klangauskas1Hubertas3 -> example.txt;
 Starts from klangauskas -> example.txt again.
 ```
 
-Then it will merge those results based on the F input (F = [-2..2]) and save them into the **Klangauskas** directory in files **F.txt**
+Then it will sort those results by X in ASC order, merge based on the F input (F = [-2..2]) and save them into the **Klangauskas** directory in files **F.txt**
 
 Then it will delete all the subdirectories from directory **Klangauskas** recursively
