@@ -1,0 +1,25 @@
+﻿cl : command line warning D9035: option 'o' has been deprecated and will be removed in a future release
+  OSLAB2_DLL.cpp
+C:\Users\Hubertas\source\repos\OSLAB2_DLL\OSLAB2_DLL.cpp(49,1): warning C4273: 'startTimeCount': inconsistent dll linkage
+C:\Users\Hubertas\source\repos\OSLAB2_DLL\OSLAB2_DLL.h(11,33): message : see previous definition of 'startTimeCount'
+C:\Users\Hubertas\source\repos\OSLAB2_DLL\OSLAB2_DLL.cpp(55,1): warning C4273: 'endTimeCount': inconsistent dll linkage
+C:\Users\Hubertas\source\repos\OSLAB2_DLL\OSLAB2_DLL.h(14,35): message : see previous definition of 'endTimeCount'
+C:\Users\Hubertas\source\repos\OSLAB2_DLL\OSLAB2_DLL.cpp(62,1): warning C4273: 'studentID_3': inconsistent dll linkage
+C:\Users\Hubertas\source\repos\OSLAB2_DLL\OSLAB2_DLL.h(17,33): message : see previous definition of 'studentID_3'
+C:\Users\Hubertas\source\repos\OSLAB2_DLL\OSLAB2_DLL.cpp(97,1): warning C4273: 'getName': inconsistent dll linkage
+C:\Users\Hubertas\source\repos\OSLAB2_DLL\OSLAB2_DLL.h(26,34): message : see previous definition of 'getName'
+C:\Users\Hubertas\source\repos\OSLAB2_DLL\OSLAB2_DLL.cpp(112,1): warning C4273: 'createFolders': inconsistent dll linkage
+C:\Users\Hubertas\source\repos\OSLAB2_DLL\OSLAB2_DLL.h(20,35): message : see previous definition of 'createFolders'
+C:\Users\Hubertas\source\repos\OSLAB2_DLL\OSLAB2_DLL.cpp(142,1): warning C4273: 'calculateTschirnhausenCubic': inconsistent dll linkage
+C:\Users\Hubertas\source\repos\OSLAB2_DLL\OSLAB2_DLL.h(23,35): message : see previous definition of 'calculateTschirnhausenCubic'
+C:\Users\Hubertas\source\repos\OSLAB2_DLL\OSLAB2_DLL.cpp(260,1): warning C4273: 'mergeFiles': inconsistent dll linkage
+C:\Users\Hubertas\source\repos\OSLAB2_DLL\OSLAB2_DLL.h(29,35): message : see previous definition of 'mergeFiles'
+C:\Users\Hubertas\source\repos\OSLAB2_DLL\OSLAB2_DLL.cpp(377,1): warning C4273: 'deleteFilesAndFolders': inconsistent dll linkage
+C:\Users\Hubertas\source\repos\OSLAB2_DLL\OSLAB2_DLL.h(32,35): message : see previous definition of 'deleteFilesAndFolders'
+     Creating library C:\Users\Hubertas\source\repos\OSLAB2_DLL_client\x64\Release\OSLAB2_DLL.lib and object C:\Users\Hubertas\source\repos\OSLAB2_DLL_client\x64\Release\OSLAB2_DLL.exp
+  Generating code
+  3 of 401 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OSLAB2_DLL.vcxproj -> C:\Users\Hubertas\source\repos\OSLAB2_DLL_client\x64\Release\OSLAB2_DLL.dll
