@@ -1,1 +1,2 @@
 C:\Users\Hubertas\source\repos\OSLAB2_DLL_client\x64\Release\OSLAB2_DLL_client.exe
+C:\Users\Hubertas\source\repos\OS labaratoriniai\OS_LAB_2\OSLAB2_DLL_client\x64\Release\OSLAB2_DLL_client.exe

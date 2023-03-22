@@ -15,11 +15,14 @@ int main()
 
     createFolders(); // 3-rd requirement function
     
+    //#pragma omp parallel for num_threads(4)
     for (int F = -2; F <= 2; ++F)
     {
         std::cout << "Computing when F = " << F << " ..." << std::endl;
+        //#pragma omp critical
         totalTime += calculateTschirnhausenCubic(F, X0, X1, DELTAX); // 4-th requirement function
         std::cout << "Merging when F = " << F << " ..." << std::endl;
+        //#pragma omp critical
         totalTime += mergeFiles(F); // 5-th requirement function
         totalTime += deleteFilesAndFolders(); // 6-th requirement function
     }
